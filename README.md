@@ -1,4 +1,5 @@
 # subhra
+
 This is my first git repo
 <br>
-Author-Subhranjali Behera
+Author-Subhranjali (quick learner)
